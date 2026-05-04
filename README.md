@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- Animated greeting banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aryan%20Kaundal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20JavaScript%20%E2%80%A2%20React%20%E2%80%A2%20Node.js&descAlignY=60&descSize=18&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aryan%20Kaundal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20JavaScript%20%E2%80%A2%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20AI%20Integrations&descAlignY=60&descSize=17&descColor=a78bfa" />
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+ideas%2C+one+commit+at+a+time;Full-stack+%7C+React+%7C+Node.js+%7C+MongoDB;Turning+concepts+into+live+products;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-powered+apps+from+scratch;Full-stack+%7C+React+%7C+Node.js+%7C+MongoDB;Real-time+systems+%2B+clean+architecture;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,15 +10,13 @@
 
 ## 👋 About Me
 
-Hey! I'm **Aryan** — a full-stack JavaScript developer who loves building polished, user-focused web apps from idea to deployment. I'm drawn to the intersection of clean UIs and well-structured backends, and I enjoy working across the whole stack: crafting React frontends, designing REST APIs with Express, and wiring it all up to MongoDB.
+Hey! I'm **Aryan** — a full-stack JavaScript developer who builds AI-integrated web apps from idea to deployment. I live at the intersection of real-time systems, clean frontend design, and intelligent backends. Whether it's wiring up semantic vector memory for a chat assistant or running emotion detection locally in the browser, I enjoy working across the full depth of the stack.
 
-When I'm not shipping features, I'm experimenting with new libraries, fine-tuning UX details, or finding creative ways to combine APIs (like strapping a face-detection model to a music player 🎵🧠).
-
-- 🔭 Currently working on **[MoodSync](https://mood-sync-lovat.vercel.app)** — AI mood detection + music recommendations  
-- 🌱 Exploring **computer vision integrations** and **real-time web features**  
-- 💬 Ask me about **React, Node.js, REST APIs, Tailwind CSS, MongoDB**  
+- 🤖 Currently building with **Socket.IO, Pinecone, Sarvam AI, and Google Gemini** — real-time AI systems with long-term memory  
+- 🌱 Exploring **computer vision integrations**, **vector search**, and **WebSocket-driven architectures**  
+- 💬 Ask me about **React, Node.js, REST APIs, Tailwind CSS, MongoDB, Socket.IO**  
 - 📍 Based in **Himachal Pradesh, India**  
-- ⚡ Fun fact: I've configured a Pomodoro timer, live weather, and a task board into one dashboard — because why use four apps when one will do?
+- ⚡ Fun fact: I once strapped a face-detection model to a music player — because why not let your face pick the playlist 🎵🧠
 
 ---
 
@@ -38,12 +34,20 @@ When I'm not shipping features, I'm experimenting with new libraries, fine-tunin
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-433D3D?style=for-the-badge&logo=react&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### AI & Integrations
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Sarvam AI](https://img.shields.io/badge/Sarvam_AI-5C6BC0?style=for-the-badge&logo=artificialintelligence&logoColor=white)
+![ImageKit](https://img.shields.io/badge/ImageKit-FF6C37?style=for-the-badge&logo=imagekit&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -56,44 +60,70 @@ When I'm not shipping features, I'm experimenting with new libraries, fine-tunin
 
 ## 🚀 Featured Projects
 
-### 🎭 [MoodSync](https://github.com/NovaWhisperer/MoodSync)
-> **AI-powered mood detection meets music discovery**
+### 🧠 [Dexio AI](https://github.com/NovaWhisperer/dexio-ai) · [Live Demo ↗](https://dexio-ai.vercel.app)
+> **Full-stack AI assistant with long-term semantic memory**
 
-Real-time facial expression analysis in the browser using **face-api.js** that recommends songs matching your emotional state. Full-stack MERN app with multipart song uploads to ImageKit CDN.
+A production-ready conversational AI app combining real-time Socket.IO messaging, cookie-based authentication, persistent chat history, and vector memory via Pinecone and Google Gemini embeddings. The frontend runs on a Three.js animated 3D background with full Markdown and syntax-highlighted code rendering.
 
-**Stack:** `React 19` `Vite` `Zustand` `Framer Motion` `Express 5` `MongoDB` `ImageKit` `face-api.js`  
-**Live:** [mood-sync-lovat.vercel.app](https://mood-sync-lovat.vercel.app) | **Highlights:** Local-first emotion analysis, queue-based music playback, REST API with mood filtering
-
----
-
-### 🍽️ [Recipe Atelier](https://github.com/NovaWhisperer/recipe-atelier)
-> **A modern recipe management app for culinary enthusiasts**
-
-Create, search, filter, and export recipes with a clean, responsive UI. Features real-time search across names, descriptions, ingredients, and chefs — all persisted in localStorage with no backend required.
-
-**Stack:** `React 19` `Vite` `Tailwind CSS 4` `React Router v7` `React Hook Form` `Context API`  
-**Live:** [recipe-atelier.vercel.app](https://recipe-atelier.vercel.app) | **Highlights:** Import/export JSON, smart sorting, recipe analytics, favorites system
+**Stack:** `React` `Vite` `Three.js` `Node.js` `Express` `Socket.IO` `MongoDB` `Pinecone` `Sarvam AI` `Gemini`
 
 ---
 
-### ⏱️ [FocusFlow](https://github.com/NovaWhisperer/focusflow)
-> **All-in-one productivity dashboard — zero dependencies**
+### 😄 [MoodSync](https://github.com/NovaWhisperer/MoodSync) · [Live Demo ↗](https://mood-sync-lovat.vercel.app)
+> **Emotion-aware music recommendations via real-time face detection**
 
-A mobile-first dashboard packing live weather (Open-Meteo), task board, 18-slot day planner, daily quotes, and a Pomodoro timer into one polished interface. Built entirely with vanilla JS and SCSS — no framework, no runtime.
+Detects your mood from the webcam entirely in-browser using face-api.js — no raw image data ever leaves your device. Songs are served by a custom Express API, stored in MongoDB, and delivered via ImageKit CDN. State is managed with Zustand; animations run through Framer Motion.
 
-**Stack:** `Vanilla JS` `SCSS` `HTML5` `Open-Meteo API` `LocalStorage`  
-**Live:** [focusflow-psi-tawny.vercel.app](https://focusflow-psi-tawny.vercel.app) | **Highlights:** Dark mode, weather-aware theming, fully responsive (mobile → desktop)
+**Stack:** `React 19` `Vite` `face-api.js` `Zustand` `Framer Motion` `Express 5` `MongoDB` `ImageKit`
+
+---
+
+### ⏱️ [FocusFlow](https://github.com/NovaWhisperer/focusflow) · [Live Demo ↗](https://focusflow-psi-tawny.vercel.app)
+> **All-in-one productivity dashboard — zero dependencies, zero framework**
+
+A mobile-first dashboard packing live weather (Open-Meteo), a 25/5 Pomodoro timer, an 18-slot day planner, a task board, and daily inspiration — all built with vanilla JS and SCSS. Weather-aware backgrounds and dark mode included. Open `index.html` and it just works.
+
+**Stack:** `Vanilla JS` `SCSS` `HTML5` `Open-Meteo API` `LocalStorage`
+
+---
+
+### 🍽️ [Recipe Atelier](https://github.com/NovaWhisperer/recipe-atelier) · [Live Demo ↗](https://recipe-atelier.vercel.app)
+> **Modern recipe manager with real-time search and JSON export**
+
+A fully client-side recipe management app with live search across names, descriptions, ingredients, and chefs — plus smart sorting, category filtering, recipe analytics, favorites, and full JSON import/export. No backend required; everything persists in the browser.
+
+**Stack:** `React 19` `Vite` `Tailwind CSS 4` `React Router v7` `React Hook Form` `Context API`
+
+---
+
+### 📡 [Sarvam AI Chat Server](https://github.com/NovaWhisperer/sarvam-ai-chat-server)
+> **Minimal real-time AI chat backend — Socket.IO + Sarvam AI**
+
+A focused Node.js backend that powers AI conversations over WebSockets using the Sarvam AI SDK. Maintains per-session chat history and emits responses in real time via Socket.IO events. Purpose-built for rapid prototyping and API integration testing.
+
+**Stack:** `Node.js` `Express` `Socket.IO` `Sarvam AI` `dotenv`
+
+---
+
+### 🔐 [Backend Auth + Post AI](https://github.com/NovaWhisperer/backend-auth-post-ai)
+> **Authentication-backed REST API with AI-enhanced post management**
+
+A structured Express backend with secure user authentication, JWT-protected routes, and AI-integrated post operations — a solid, reusable foundation for content-driven applications.
+
+**Stack:** `Node.js` `Express` `MongoDB` `JWT`
+
+---
+
+### 🔁 [Dexio AI v2](https://github.com/NovaWhisperer/dexio-ai-2)
+> **Revised Dexio AI — refined architecture and pipeline improvements**
+
+A second iteration of the Dexio AI project, tightening the real-time chat pipeline and backend structure based on lessons from the original build.
+
+**Stack:** `Node.js` `Express` `Socket.IO` `Sarvam AI`
 
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NovaWhisperer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NovaWhisperer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
 
 <div align="center">
 
@@ -119,7 +149,7 @@ A mobile-first dashboard packing live weather (Open-Meteo), task board, 18-slot 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
-*Thanks for visiting — feel free to explore my repos and reach out anytime!*
+*Thanks for visiting — feel free to explore the repos and reach out anytime!*
 
 [![Profile views](https://komarev.com/ghpvc/?username=NovaWhisperer&color=a78bfa&style=flat-square&label=Profile+Views)](https://github.com/NovaWhisperer)
 
