@@ -15,7 +15,6 @@ Hey! I'm **Aryan** — a full-stack JavaScript developer who builds AI-integrate
 - 🤖 Currently building with **Socket.IO, Pinecone, Sarvam AI, and Google Gemini** — real-time AI systems with long-term memory  
 - 🌱 Exploring **computer vision integrations**, **vector search**, and **WebSocket-driven architectures**  
 - 💬 Ask me about **React, Node.js, REST APIs, Tailwind CSS, MongoDB, Socket.IO**  
-- 📍 Based in **Himachal Pradesh, India**  
 - ⚡ Fun fact: I once strapped a face-detection model to a music player — because why not let your face pick the playlist 🎵🧠
 
 ---
@@ -93,33 +92,6 @@ A mobile-first dashboard packing live weather (Open-Meteo), a 25/5 Pomodoro time
 A fully client-side recipe management app with live search across names, descriptions, ingredients, and chefs — plus smart sorting, category filtering, recipe analytics, favorites, and full JSON import/export. No backend required; everything persists in the browser.
 
 **Stack:** `React 19` `Vite` `Tailwind CSS 4` `React Router v7` `React Hook Form` `Context API`
-
----
-
-### 📡 [Sarvam AI Chat Server](https://github.com/NovaWhisperer/sarvam-ai-chat-server)
-> **Minimal real-time AI chat backend — Socket.IO + Sarvam AI**
-
-A focused Node.js backend that powers AI conversations over WebSockets using the Sarvam AI SDK. Maintains per-session chat history and emits responses in real time via Socket.IO events. Purpose-built for rapid prototyping and API integration testing.
-
-**Stack:** `Node.js` `Express` `Socket.IO` `Sarvam AI` `dotenv`
-
----
-
-### 🔐 [Backend Auth + Post AI](https://github.com/NovaWhisperer/backend-auth-post-ai)
-> **Authentication-backed REST API with AI-enhanced post management**
-
-A structured Express backend with secure user authentication, JWT-protected routes, and AI-integrated post operations — a solid, reusable foundation for content-driven applications.
-
-**Stack:** `Node.js` `Express` `MongoDB` `JWT`
-
----
-
-### 🔁 [Dexio AI v2](https://github.com/NovaWhisperer/dexio-ai-2)
-> **Revised Dexio AI — refined architecture and pipeline improvements**
-
-A second iteration of the Dexio AI project, tightening the real-time chat pipeline and backend structure based on lessons from the original build.
-
-**Stack:** `Node.js` `Express` `Socket.IO` `Sarvam AI`
 
 ---
 
