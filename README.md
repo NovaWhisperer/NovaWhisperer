@@ -27,7 +27,6 @@ Hey, I'm **Aryan** — a full-stack JavaScript developer building AI-powered app
 > 🔭 Currently building **[Dexio AI](https://dexio-ai.vercel.app)** — real-time AI assistant with Socket.IO, Pinecone vector memory, Sarvam AI voice, and a Three.js 3D frontend.
 
 ---
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -35,39 +34,39 @@ Hey, I'm **Aryan** — a full-stack JavaScript developer building AI-powered app
 **Languages & Markup**
 
 <table><tr>
-<td align="center" bgcolor="#fef9c3">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="28" height="28"/>&nbsp;<b>JavaScript</b>&nbsp;</td>
-<td align="center" bgcolor="#ffedd5">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="28" height="28"/>&nbsp;<b>HTML5</b>&nbsp;</td>
-<td align="center" bgcolor="#dbeafe">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="28" height="28"/>&nbsp;<b>CSS3</b>&nbsp;</td>
-<td align="center" bgcolor="#fce7f3">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="28" height="28"/>&nbsp;<b>Sass</b>&nbsp;</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48"/><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48"/><br/><sub><b>HTML5</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48"/><br/><sub><b>CSS3</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="48" height="48"/><br/><sub><b>Sass</b></sub></td>
 </tr></table>
 
 **Frontend**
 
 <table><tr>
-<td align="center" bgcolor="#cffafe">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="28" height="28"/>&nbsp;<b>React</b>&nbsp;</td>
-<td align="center" bgcolor="#ede9fe">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="28" height="28"/>&nbsp;<b>Vite</b>&nbsp;</td>
-<td align="center" bgcolor="#e0f2fe">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="28" height="28"/>&nbsp;<b>Tailwind CSS</b>&nbsp;</td>
-<td align="center" bgcolor="#f1f5f9">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="28" height="28"/>&nbsp;<b>Three.js</b>&nbsp;</td>
-<td align="center" bgcolor="#eff6ff">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="28" height="28"/>&nbsp;<b>Framer Motion</b>&nbsp;</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48"/><br/><sub><b>React</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="48" height="48"/><br/><sub><b>Vite</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48"/><br/><sub><b>Tailwind CSS</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/threedotjs/ffffff" width="48" height="48"/><br/><sub><b>Three.js</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/framer/0055FF" width="48" height="48"/><br/><sub><b>Framer Motion</b></sub></td>
 </tr></table>
 
 **Backend & Database**
 
 <table><tr>
-<td align="center" bgcolor="#dcfce7">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="28" height="28"/>&nbsp;<b>Node.js</b>&nbsp;</td>
-<td align="center" bgcolor="#f1f5f9">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="28" height="28"/>&nbsp;<b>Express</b>&nbsp;</td>
-<td align="center" bgcolor="#f1f5f9">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="28" height="28"/>&nbsp;<b>Socket.IO</b>&nbsp;</td>
-<td align="center" bgcolor="#dcfce7">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="28" height="28"/>&nbsp;<b>MongoDB</b>&nbsp;</td>
-<td align="center" bgcolor="#fee2e2">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="28" height="28"/>&nbsp;<b>Mongoose</b>&nbsp;</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="48" height="48"/><br/><sub><b>Node.js</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/express/ffffff" width="48" height="48"/><br/><sub><b>Express</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="48" height="48"/><br/><sub><b>Socket.IO</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48"/><br/><sub><b>MongoDB</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="48" height="48"/><br/><sub><b>Mongoose</b></sub></td>
 </tr></table>
 
 **Tools & Platforms**
 
 <table><tr>
-<td align="center" bgcolor="#ffedd5">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="28" height="28"/>&nbsp;<b>Git</b>&nbsp;</td>
-<td align="center" bgcolor="#f1f5f9">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="28" height="28"/>&nbsp;<b>GitHub</b>&nbsp;</td>
-<td align="center" bgcolor="#f1f5f9">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="28" height="28"/>&nbsp;<b>Vercel</b>&nbsp;</td>
-<td align="center" bgcolor="#dbeafe">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="28" height="28"/>&nbsp;<b>VS Code</b>&nbsp;</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48"/><br/><sub><b>Git</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/github/ffffff" width="48" height="48"/><br/><sub><b>GitHub</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/vercel/ffffff" width="48" height="48"/><br/><sub><b>Vercel</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48"/><br/><sub><b>VS Code</b></sub></td>
 </tr></table>
 
 **AI Integrations**
