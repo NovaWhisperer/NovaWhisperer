@@ -7,92 +7,143 @@
 </div>
 
 ---
+<!-- ============================================================
+   DROP-IN REPLACEMENTS — FIXED VERSION
+   ============================================================ -->
+
+
+<!-- ─── ABOUT ME ─────────────────────────────────────────────── -->
 
 ## 👋 About Me
 
-Hey! I'm **Aryan** — a full-stack JavaScript developer who builds AI-integrated web apps from idea to deployment. I live at the intersection of real-time systems, clean frontend design, and intelligent backends. Whether it's wiring up semantic vector memory for a chat assistant or running emotion detection locally in the browser, I enjoy working across the full depth of the stack.
+Hey, I'm **Aryan** — a full-stack JavaScript developer building AI-powered apps from idea to deployment. Real-time systems, clean frontend design, intelligent backends.
 
-- 🤖 Currently building with **Socket.IO, Pinecone, Sarvam AI, and Google Gemini** — real-time AI systems with long-term memory  
-- 🌱 Exploring **computer vision integrations**, **vector search**, and **WebSocket-driven architectures**  
-- 💬 Ask me about **React, Node.js, REST APIs, Tailwind CSS, MongoDB, Socket.IO**  
-- ⚡ Fun fact: I once strapped a face-detection model to a music player — because why not let your face pick the playlist 🎵🧠
+- 🤖 &nbsp;Building with **Socket.IO · Pinecone · Sarvam AI · Gemini**
+- 🌱 &nbsp;Exploring **computer vision**, **vector search** & WebSocket architectures
+- 💬 &nbsp;Ask me about **React · Node.js · Tailwind · MongoDB · REST APIs**
+- ⚡ &nbsp;Strapped face-detection to a music player — your mood picks the playlist 🎵🧠
+
+> [!NOTE]
+> 🔭 Currently building **[Dexio AI](https://dexio-ai.vercel.app)** — real-time AI assistant with Socket.IO, Pinecone vector memory, Sarvam AI voice, and a Three.js 3D frontend.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Markup
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433D3D?style=for-the-badge&logo=react&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+**Languages & Markup**
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+<table><tr>
+<td align="center" bgcolor="#fef9c3">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="28" height="28"/>&nbsp;<b>JavaScript</b>&nbsp;</td>
+<td align="center" bgcolor="#ffedd5">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="28" height="28"/>&nbsp;<b>HTML5</b>&nbsp;</td>
+<td align="center" bgcolor="#dbeafe">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="28" height="28"/>&nbsp;<b>CSS3</b>&nbsp;</td>
+<td align="center" bgcolor="#fce7f3">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="28" height="28"/>&nbsp;<b>Sass</b>&nbsp;</td>
+</tr></table>
 
-### AI & Integrations
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Sarvam AI](https://img.shields.io/badge/Sarvam_AI-5C6BC0?style=for-the-badge&logo=artificialintelligence&logoColor=white)
-![ImageKit](https://img.shields.io/badge/ImageKit-FF6C37?style=for-the-badge&logo=imagekit&logoColor=white)
+**Frontend**
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<table><tr>
+<td align="center" bgcolor="#cffafe">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="28" height="28"/>&nbsp;<b>React</b>&nbsp;</td>
+<td align="center" bgcolor="#ede9fe">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="28" height="28"/>&nbsp;<b>Vite</b>&nbsp;</td>
+<td align="center" bgcolor="#e0f2fe">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="28" height="28"/>&nbsp;<b>Tailwind CSS</b>&nbsp;</td>
+<td align="center" bgcolor="#f1f5f9">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" width="28" height="28"/>&nbsp;<b>Three.js</b>&nbsp;</td>
+<td align="center" bgcolor="#eff6ff">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="28" height="28"/>&nbsp;<b>Framer Motion</b>&nbsp;</td>
+</tr></table>
 
----
+**Backend & Database**
+
+<table><tr>
+<td align="center" bgcolor="#dcfce7">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="28" height="28"/>&nbsp;<b>Node.js</b>&nbsp;</td>
+<td align="center" bgcolor="#f1f5f9">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="28" height="28"/>&nbsp;<b>Express</b>&nbsp;</td>
+<td align="center" bgcolor="#f1f5f9">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="28" height="28"/>&nbsp;<b>Socket.IO</b>&nbsp;</td>
+<td align="center" bgcolor="#dcfce7">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="28" height="28"/>&nbsp;<b>MongoDB</b>&nbsp;</td>
+<td align="center" bgcolor="#fee2e2">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="28" height="28"/>&nbsp;<b>Mongoose</b>&nbsp;</td>
+</tr></table>
+
+**Tools & Platforms**
+
+<table><tr>
+<td align="center" bgcolor="#ffedd5">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="28" height="28"/>&nbsp;<b>Git</b>&nbsp;</td>
+<td align="center" bgcolor="#f1f5f9">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="28" height="28"/>&nbsp;<b>GitHub</b>&nbsp;</td>
+<td align="center" bgcolor="#f1f5f9">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="28" height="28"/>&nbsp;<b>Vercel</b>&nbsp;</td>
+<td align="center" bgcolor="#dbeafe">&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="28" height="28"/>&nbsp;<b>VS Code</b>&nbsp;</td>
+</tr></table>
+
+**AI Integrations**
+
+![Pinecone](https://img.shields.io/badge/Pinecone-070707?style=for-the-badge&logo=pinecone&logoColor=white)&nbsp;![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)&nbsp;![Sarvam AI](https://img.shields.io/badge/Sarvam_AI-FF6B35?style=for-the-badge&logoColor=white)&nbsp;![ImageKit](https://img.shields.io/badge/ImageKit-00B8D4?style=for-the-badge&logoColor=white)
+
+</div>
+
+<!-- ─── FEATURED PROJECTS ──────────────────────────────────────── -->
 
 ## 🚀 Featured Projects
 
-### 🧠 [Dexio AI](https://github.com/NovaWhisperer/dexio-ai) · [Live Demo ↗](https://dexio-ai.vercel.app)
-> **Full-stack AI assistant with long-term semantic memory**
+<table>
+<tr>
 
-A production-ready conversational AI app combining real-time Socket.IO messaging, cookie-based authentication, persistent chat history, and vector memory via Pinecone and Google Gemini embeddings. The frontend runs on a Three.js animated 3D background with full Markdown and syntax-highlighted code rendering.
+<td width="50%" valign="top">
 
-**Stack:** `React` `Vite` `Three.js` `Node.js` `Express` `Socket.IO` `MongoDB` `Pinecone` `Sarvam AI` `Gemini`
+### 🧠 Dexio AI
+**Full-stack AI assistant with long-term semantic memory**
 
----
+Real-time Socket.IO messaging, cookie-based auth, persistent chat history, and vector memory via Pinecone & Gemini embeddings. Three.js animated 3D background with full Markdown and syntax-highlighted code rendering.
 
-### 😄 [MoodSync](https://github.com/NovaWhisperer/MoodSync) · [Live Demo ↗](https://mood-sync-lovat.vercel.app)
-> **Emotion-aware music recommendations via real-time face detection**
+[![Live Demo](https://img.shields.io/badge/Live_Demo-→-a78bfa?style=flat-square)](https://dexio-ai.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/NovaWhisperer/dexio-ai)
 
-Detects your mood from the webcam entirely in-browser using face-api.js — no raw image data ever leaves your device. Songs are served by a custom Express API, stored in MongoDB, and delivered via ImageKit CDN. State is managed with Zustand; animations run through Framer Motion.
+`React` `Three.js` `Socket.IO` `Pinecone` `Sarvam AI` `Gemini` `MongoDB`
 
-**Stack:** `React 19` `Vite` `face-api.js` `Zustand` `Framer Motion` `Express 5` `MongoDB` `ImageKit`
+</td>
 
----
+<td width="50%" valign="top">
 
-### ⏱️ [FocusFlow](https://github.com/NovaWhisperer/focusflow) · [Live Demo ↗](https://focusflow-psi-tawny.vercel.app)
-> **All-in-one productivity dashboard — zero dependencies, zero framework**
+### 😄 MoodSync
+**Emotion-aware music via real-time in-browser face detection**
 
-A mobile-first dashboard packing live weather (Open-Meteo), a 25/5 Pomodoro timer, an 18-slot day planner, a task board, and daily inspiration — all built with vanilla JS and SCSS. Weather-aware backgrounds and dark mode included. Open `index.html` and it just works.
+Detects mood from the webcam using face-api.js — no image data ever leaves your device. Songs served by a custom Express API, stored in MongoDB, delivered via ImageKit CDN.
 
-**Stack:** `Vanilla JS` `SCSS` `HTML5` `Open-Meteo API` `LocalStorage`
+[![Live Demo](https://img.shields.io/badge/Live_Demo-→-a78bfa?style=flat-square)](https://mood-sync-lovat.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/NovaWhisperer/MoodSync)
 
----
+`React 19` `face-api.js` `Zustand` `Framer Motion` `Express 5` `MongoDB`
 
-### 🍽️ [Recipe Atelier](https://github.com/NovaWhisperer/recipe-atelier) · [Live Demo ↗](https://recipe-atelier.vercel.app)
-> **Modern recipe manager with real-time search and JSON export**
+</td>
 
-A fully client-side recipe management app with live search across names, descriptions, ingredients, and chefs — plus smart sorting, category filtering, recipe analytics, favorites, and full JSON import/export. No backend required; everything persists in the browser.
+</tr>
+<tr>
 
-**Stack:** `React 19` `Vite` `Tailwind CSS 4` `React Router v7` `React Hook Form` `Context API`
+<td width="50%" valign="top">
 
+### ⏱️ FocusFlow
+**All-in-one productivity dashboard — zero dependencies**
+
+Live weather, 25/5 Pomodoro timer, 18-slot day planner, task board, and daily inspiration — all in vanilla JS & SCSS. Weather-aware backgrounds, dark mode. Open `index.html` and it just works.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-→-a78bfa?style=flat-square)](https://focusflow-psi-tawny.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/NovaWhisperer/focusflow)
+
+`Vanilla JS` `SCSS` `HTML5` `Open-Meteo API` `LocalStorage`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🍽️ Recipe Atelier
+**Modern recipe manager — fully client-side**
+
+Live search across names, descriptions, ingredients, and chefs. Smart sorting, category filtering, recipe analytics, favorites, and full JSON import/export. No backend needed.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-→-a78bfa?style=flat-square)](https://recipe-atelier.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/NovaWhisperer/recipe-atelier)
+
+`React 19` `Tailwind CSS 4` `React Router v7` `React Hook Form`
+
+</td>
+
+</tr>
+</table>
 ---
 
 ## 📊 GitHub Stats
