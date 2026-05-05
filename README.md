@@ -143,6 +143,7 @@ Live search across names, descriptions, ingredients, and chefs. Smart sorting, c
 
 </tr>
 </table>
+
 ---
 
 ## 📊 GitHub Stats
