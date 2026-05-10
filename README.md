@@ -146,15 +146,6 @@ Live search across names, descriptions, ingredients, and chefs. Smart sorting, c
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=NovaWhisperer&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
